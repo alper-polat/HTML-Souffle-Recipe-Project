@@ -1,0 +1,97 @@
+.articles {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: #484848;
+    font-feature-settings: "ss01" 1,"cv05" 1;
+    font-size: 1.6rem;
+    font-weight: bolder;
+}
+
+.bir-adet-icin-dortyuzelli-kcal {
+    color: #551A8B;
+}
+
+
+.buttons-center {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
+
+.buttons1, .buttons2 {
+    padding: 10px;    
+    margin-left: 650px;
+    margin-right: 650px; 
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    font-weight: bolder;
+
+
+}
+
+.button1-font {
+    font-weight: bolder;
+    color: red;
+}
+
+.button2-font {
+    text-decoration: none;    
+}
+
+.center {
+    align-items: center;
+    text-align: center;
+}
+
+.list-bullet-delete {
+    list-style-type: none;
+} 
+
+.li-elemans-font {
+    color: #484848;
+    font-feature-settings: "ss01" 1,"cv05" 1;
+    font-size: 1.3rem;
+    font-weight: bolder;
+
+}
+
+.top-header-image {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+} 
+
+.margin-li {
+    margin-bottom: 6px;
+}
+
+.margin-li2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.uzeriIcin-font {
+    color: red;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+
+
+
+
+
